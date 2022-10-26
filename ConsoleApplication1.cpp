@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello conflict branch\n";
     std::cout << "Hello github\n";
     std::cout << "Hello master  branch\n";
+    std::cout << "third branch\n";
 
 }
 
